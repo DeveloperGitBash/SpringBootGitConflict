@@ -10,7 +10,6 @@ public class MyController {
 
 	@GetMapping("/hello")
 	public String getHello() {
-		System.out.println("eclipse");
 		return "say hello world!!!";
 	}
 }
