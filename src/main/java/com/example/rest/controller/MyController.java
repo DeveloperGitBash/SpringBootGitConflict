@@ -12,11 +12,7 @@ public class MyController {
 	public String getHello() {
 		System.out.println("github");
 		System.out.println("github22");
-<<<<<<< HEAD
-		
-=======
 		System.out.println("github33");
->>>>>>> branch 'main' of https://github.com/DeveloperGitBash/SpringBootGitConflict.git
 		return "say hello world!!!";
 	}
 	
