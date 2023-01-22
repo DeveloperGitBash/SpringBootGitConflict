@@ -73,4 +73,11 @@ public class MyController {
 		return "say hello world!!!";
 
 		}
+		
+	@GetMapping("/helloddd")
+	public String getHello23sss() {
+		System.out.println("github111222555sss999");
+		return "say hello world!!!";
+
+		}
 }
