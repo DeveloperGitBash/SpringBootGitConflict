@@ -10,6 +10,7 @@ public class MyController {
 
 	@GetMapping("/hello")
 	public String getHello() {
+		System.out.println("github");
 		return "say hello world!!!";
 	}
 	
