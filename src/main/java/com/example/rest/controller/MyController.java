@@ -16,12 +16,20 @@ public class MyController {
 		System.out.println("hhhhhhh111444");
 		return "say hello world!!!";
 	}
-	
+
 	@GetMapping("/hello1")
 	public String getHello1() {
 		System.out.println("github111");
 		return "say hello world!!!";
 	}
+
+	@GetMapping("/hello1000")
+	public String getHello000() {
+		System.out.println("github110001");
+		return "say hello world!!!";
+	}
+	
+
 	@GetMapping("/hello33")
 	public String getHello3() {
 		System.out.println("github111333");
