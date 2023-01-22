@@ -39,4 +39,9 @@ public class MyController {
 
 		return "say hello world!!!";
 	}
+	@GetMapping("/hello5")
+	public String getHello2() {
+		System.out.println("github111222555");
+		return "say hello world!!!";
+		}
 }
