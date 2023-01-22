@@ -12,7 +12,7 @@ public class MyController {
 	public String getHello() {
 		System.out.println("github33");
 		System.out.println("github111");
-		System.out.println("github444888111222");
+		System.out.println("hhhhhhh");
 		System.out.println("github444888111");
 		return "say hello world!!!";
 	}
