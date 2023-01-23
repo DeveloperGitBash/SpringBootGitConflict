@@ -26,6 +26,16 @@ public class MyController {
 		return "say hello world!!!33";
 
 	}
+	@GetMapping("/hello1212")
+	public String getHello12() {
+
+		System.out.println("github33111333333");
+		System.out.println("github11133");
+		System.out.println("hhhhhhh11133");
+		System.out.println("hhhhhhh11144433");
+		return "say hello world!!!3312";
+
+	}
 
 	@GetMapping("/hello99")
 	public String getHello99() {
