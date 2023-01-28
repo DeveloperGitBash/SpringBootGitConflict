@@ -26,10 +26,10 @@ public class MyController {
 	}
 	
 	@GetMapping("/hello2")
-	public String getHello() {
+	public String getHello2() {
 		System.out.println("github331113333");
 		
-		return "say";
+		return "say222";
 	}
 	
 }
