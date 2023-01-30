@@ -20,8 +20,8 @@ public class MyController {
 	public String getHello1() {
 		System.out.println("github331113333");
 		System.out.println("github111");
-		System.out.println("hhhhhhh11166");
-		System.out.println("hhhhhhh111444");
+		System.out.println("hhhhhhh11166222");
+		System.out.println("hhhhhhh111444222");
 		return "say hello world1112";
 	}
 	
@@ -29,8 +29,11 @@ public class MyController {
 	public String getHello2) {
 		System.out.println("github331113333");
 		System.out.println("github111");
-		System.out.println("hhhhhhh11166777");
+
+		System.out.println("hhhhhhh11166");
 		System.out.println("hhhhhhh111444444");
-		return "say hello world111233";
+		System.out.println("hhhhhhh11166");
+		return "say hello world1112222";
+
 	}
 }
