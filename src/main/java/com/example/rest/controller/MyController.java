@@ -9,35 +9,35 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 
 	@GetMapping("/hello")
-	public String getHello() {
+	public String getHelloss() {
 		System.out.println("github3311133331");
 		System.out.println("github111");
-		System.out.println("hhhhhhh11166");
+		System.out.println("hhhhhhh111662");
 		System.out.println("hhhhhhh1114445");
 		return "say hello world1112";
 	}
 	@GetMapping("/hello1")
-	public String getHello2() {
+	public String getHello222() {
 		System.out.println("github3311133313");
 		System.out.println("github111");
-		System.out.println("hhhhhhh11166");
+		System.out.println("hhhhhhh1116622");
 		System.out.println("hhhhhhh111444");
 		return "say hello world1112";
 	}
 	@GetMapping("/hello3")
-	public String getHello3() {
+	public String getHello32() {
 		System.out.println("github3311131333");
-		System.out.println("github111");
+		System.out.println("github11122");
 		System.out.println("hhhhhhh1116677");
 		System.out.println("hhhhhhh111444");
 		return "say hello world1112";
 	}
 	@GetMapping("/hello4")
-	public String getHello4() {
+	public String getHello42() {
 		System.out.println("github331113333");
 		System.out.println("github111");
-		System.out.println("hhhhhhh11166");
-		System.out.println("hhhhhhh111445");
+		System.out.println("hhhhhhh1116622");
+		System.out.println("hhhhhhh11144522");
 		return "say hello world1112";
 	}
 }
