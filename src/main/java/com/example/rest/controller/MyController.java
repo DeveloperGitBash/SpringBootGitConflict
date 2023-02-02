@@ -11,8 +11,15 @@ public class MyController {
 	@GetMapping("/hello")
 	public String getHello1() {
 		System.out.println("github331221133331");
-		
+		System.out.println("github2222222");
 		System.out.println("22hhhhhhh11166");
 		return "say hello";
+	}
+	@GetMapping("/hello2")
+	public String getHello2() {
+		System.out.println("github331221133331");
+		System.out.println("github2222222");
+		System.out.println("22hhhhhhh11166");
+		return "say hello2";
 	}
 }
