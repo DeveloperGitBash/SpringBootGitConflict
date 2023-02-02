@@ -10,7 +10,6 @@ public class MyController {
 
 	@GetMapping("/hello")
 	public String getHello1() {
-		
 		System.out.println("github331221133331");
 		
 		System.out.println("22hhhhhhh11166");
