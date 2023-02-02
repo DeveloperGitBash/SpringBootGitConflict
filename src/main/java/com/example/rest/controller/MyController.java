@@ -22,4 +22,11 @@ public class MyController {
 		System.out.println("22hhhhhhh11166");
 		return "say hello2";
 	}
+	@GetMapping("/hello3")
+	public String getHello3() {
+		System.out.println("github331221133331");
+		System.out.println("github2222222");
+		System.out.println("22hhhhhhh11166");
+		return "say hello2";
+	}
 }
